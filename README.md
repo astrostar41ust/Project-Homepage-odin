@@ -10,7 +10,7 @@ A modern, responsive personal homepage/portfolio website built as part of the Od
 ## Live Demo
 You can view a live demo of this project here:
 
-[Live Demo on GitHub Pages](https://rames.github.io/Project-Homepage-odin-/)
+[[Live Demo on GitHub Pages](https://rames.github.io/Project-Homepage-odin-/)](https://astrostar41ust.github.io/Project-Homepage-odin/)
 
 > If the link above does not work, you can also run the project locally by opening `index.html` in your browser.
 
